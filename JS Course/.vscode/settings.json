@@ -1,0 +1,10 @@
+{
+    "powermode.presets": "particles",
+    "powermode.enabled": true,
+    "powermode.shake.enabled": false,
+    "powermode.explosions.offset": 0.2,
+    "powermode.explosions.size": 4.2,
+    "powermode.explosions.enabled": true,
+    "powermode.explosions.maxExplosions": 3,
+    "editor.linkedEditing": true
+}
